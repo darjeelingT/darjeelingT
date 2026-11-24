@@ -1,6 +1,6 @@
 ```cs
 public class Darjeeling<T>
-  where T : IDrinkable
+  where T : IGitHubUser
 ```
 
 ## Darjeeling\<T>
